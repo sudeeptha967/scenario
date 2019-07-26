@@ -17,7 +17,7 @@ Then click register
 
 Examples:
 |uname|
-|sudeepppratik|
+|jsprati|
 
  Scenario Outline: login
    When enter name '<uname>'
